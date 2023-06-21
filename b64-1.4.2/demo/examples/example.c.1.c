@@ -44,7 +44,6 @@
 
 /* b64 Header Files */
 #include <b64/b64.h>
-#include <b64/implicit_link.h>  /* Don't include this if you want to use explicit linking */
 
 /* Standard C Header Files */
 #include <assert.h>
